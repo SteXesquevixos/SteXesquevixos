@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Sou formada em Física Médica na USP<br>📚 Estudo Python, Java, SQL e Machine Learning<br>🔬 Trabalhei em dois projetos de pesquisa durante a minha graduação (um dos projetos, você encontra no meu repositório iniciacao-cientifica-python)<br>🎯 Meu objetivo é migrar para a área da tecnologia com foco em Análise/Ciência de Dados</p>
+<p align="left">✨ Sou formada em Física Médica na USP<br>📚 Estudo Python, Java, SQL e Machine Learning<br>🔬 Trabalhei em dois projetos de pesquisa durante a minha graduação<br>  (um dos projetos, você encontra no meu repositório iniciacao-cientifica-python)<br>🎯 Meu objetivo é migrar para a área da tecnologia com foco em Análise/Ciência de Dados</p>
 
 ###
 
