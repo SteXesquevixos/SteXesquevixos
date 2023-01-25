@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Sou formada em Física Médica na USP<br>📚 Estudo Python, Java, SQL e Machine Learning<br>🔬 Trabalhei em dois projetos de pesquisa durante a minha graaduação (uma delas, você encontra no meu repositório iniciacao-cientifica-python)<br>🎯 Meu objetivo é migrar para a área da tecnologia com foco em Análise/Ciência de Dados</p>
+<p align="left">✨ Sou formada em Física Médica na USP<br>📚 Estudo Python, Java, SQL e Machine Learning<br>🔬 Trabalhei em dois projetos de pesquisa durante a minha graaduação (um dos projetos, você encontra no meu repositório iniciacao-cientifica-python)<br>🎯 Meu objetivo é migrar para a área da tecnologia com foco em Análise/Ciência de Dados</p>
 
 ###
 
@@ -36,6 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SteXesquevixos/SteXesquevixos/blob/output/snake.svg" alt="Snake animation" />
+<img src="(https://github.com/SteXesquevixos/SteXesquevixos/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 
 ###
