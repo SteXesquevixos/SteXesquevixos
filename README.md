@@ -36,6 +36,6 @@
 
 ###
 
-<img src="(https://github.com/SteXesquevixos/SteXesquevixos/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+![Snake animation](https://github.com/SteXesquevixos/SteXesquevixos/blob/output/github-contribution-grid-snake.svg)
 
 ###
