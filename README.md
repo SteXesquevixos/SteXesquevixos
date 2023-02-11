@@ -47,7 +47,3 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/SteXesquevixos/SteXesquevixos/blob/output/github-contribution-grid-snake.svg)
-
-###
